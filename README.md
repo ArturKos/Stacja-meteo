@@ -26,9 +26,14 @@ Wykorzystane części:
 - Czujnik wilgotności i temperatury DTH11
 
 - Czujnik wilgotności i temperatury DTH22
+
 Docelowo widok strony www na poniższym obrazie
 ![image](https://user-images.githubusercontent.com/17749811/152382116-4bd5a943-fe65-445e-ac0e-efde6e95eb74.png)
+
 Widok widgetu w Windows 10
+
 ![image](https://user-images.githubusercontent.com/17749811/152382146-2905884a-bba2-4f61-bc8e-0590faead913.png)
+
 Widok aplikacji Android
+
 ![image](https://user-images.githubusercontent.com/17749811/152382169-8d5b88af-091a-46cf-8e99-3540f27270eb.png)
