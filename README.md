@@ -1,4 +1,3 @@
-Opis projektu po angielsku
 Weather Station is a project that measures temperature and humidity both indoors and outdoors. The project is based on an article published by user r.blaszczak on majsterkowo.pl, with modifications made according to personal ideas.
 
 Project Assumptions
